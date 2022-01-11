@@ -1,8 +1,8 @@
 # Exercises, Data Mining at Aarhus University
-The [Data Mining course](https://kursuskatalog.au.dk/da/course/104084/Data-Mining) 
+The [Data Mining course](https://kursuskatalog.au.dk/da/course/111412/Data-Mining) 
 at Aarhus University is primarily based on the 
 
-* [Data Mining and Analysis](http://www.dataminingbook.info/pmwiki.php/Main/BookDownload) book from Zaki and Meira refered to as [DMA] throughout this repository:
+* [Data Mining and Analysis](https://dataminingbook.info/book_html/) book from Zaki and Meira refered to as [DMA] throughout this repository:
 
 > Zaki, M.J., Meira Jr, W. and Meira, W., 2014. 
 > Data mining and analysis: fundamental concepts 
@@ -49,13 +49,13 @@ an environment, where we will install the necessary packages for this course.
 
 _Navigate to the project directory_:
 ```bash
-> cd /path/to/dm2021-exercises
+> cd /path/to/dm2022-exercises
 ```
 
 _Create and activate environment:_  
 ```bash
 > conda env create -f requirements.yml
-> conda activate dm21
+> conda activate dm22
 ``` 
 
 Now you should have created a conda environment with the necessary
@@ -73,7 +73,7 @@ Navigate to the root of this repo and run the
 following command from the command line:
 
 ```bash
-(dm21) > jupyter lab
+(dm22) > jupyter lab
 ```
 
 The command should open a new window in your browser, where you can start running
