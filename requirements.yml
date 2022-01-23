@@ -1,4 +1,4 @@
-name: dm20
+name: dm22
 dependencies:
     - python=3.7
     - numpy
