@@ -62,7 +62,7 @@ Now you should have created a conda environment with the necessary
 dependencies.  From now on, when you want to run a python script or start a
 notebook for this course, make sure to activate the environment (as in the last
 line of coda above).  You know that your environment is active, if your active
-line in the terminal is prefixed with `(dm21)`.
+line in the terminal is prefixed with `(dm22)`.
 
 By the way, a pretty fine cheatsheet can be found 
 [here](https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf).
