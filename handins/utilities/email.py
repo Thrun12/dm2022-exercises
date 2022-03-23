@@ -34,7 +34,8 @@ for i in range(G.number_of_nodes()):
     if G.nodes[i]['community'] not in com: 
         G_copy.remove_node(i)
 
-for edge in G_copy.edges():
+r_edges = G_copy.edges()
+for edge in r_edges:
     if edge[0] == edge[1]:
         G_copy.remove_edge(edge[0], edge[1])
 
